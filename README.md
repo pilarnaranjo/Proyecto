@@ -223,7 +223,7 @@ VALUES
 
 ```
 
-###🗄️**Scripts SQL del proyecto**
+### 🗄️ **Scripts SQL del proyecto**
 Los siguientes archivos contienen las instrucciones para crear la estructura de la base de datos e insertar los registros de prueba.
 | Archivo | Descripción |
 |:---|:---|
