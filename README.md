@@ -217,11 +217,15 @@ VALUES
 (5, 'Auditor', 'Revisa el registro de actividad del sistema');
 
 ```
+
+###🗄️ **Scripts SQL del proyecto**
+Los siguientes archivos contienen las instrucciones para crear la estructura de la base de datos e insertar los registros de prueba.
 | Archivo | Descripción |
 |:---|:---|
 | [📥 Base de datos completa](https://github.com/pilarnaranjo/Proyecto/blob/d3a03cded12b0ddee2ae450c2194f7b6d09155ce/csv/Untitled.sql) | Creación de todas las tablas y relaciones mediante DDL. |
 | [📥 Inserción de datos](./sql/Inserciones.sql) | Registros de prueba mediante instrucciones DML. |
-### 5.3. Archivos CSV
+
+### 6.3. Archivos CSV
 
 Los datos utilizados en el proyecto se encuentran organizados en archivos CSV, correspondientes a las tablas de la base de datos.
 
