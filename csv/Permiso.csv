@@ -1,0 +1,9 @@
+idPermiso,accion,descripcion,idRecurso
+1,Consultar,"Ver calificaciones",1
+2,Modificar,"Registrar y corregir calificaciones",1
+3,Consultar,"Ver matriculas",2
+4,Modificar,"Gestionar matriculas",2
+5,Consultar,"Ver reporte de asistencia",3
+6,Consultar,"Ver datos personales",4
+7,Modificar,"Actualizar datos personales",4
+8,Modificar,"Administrar usuarios y roles",5

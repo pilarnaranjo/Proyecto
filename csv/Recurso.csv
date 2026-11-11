@@ -1,0 +1,6 @@
+idRecurso,nombre,tipo
+1,Calificaciones,Modulo
+2,Matriculas,Modulo
+3,Reporte de asistencia,Reporte
+4,Datos personales,Informacion
+5,Gestion de usuarios,Modulo

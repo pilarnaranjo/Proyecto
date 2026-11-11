@@ -1,0 +1,6 @@
+idRol,nombreRol,descripcion
+1,Estudiante,"Consulta su informacion academica"
+2,Docente,"Gestiona calificaciones de sus cursos"
+3,Administrativo,"Gestiona matriculas y reportes"
+4,Administrador,"Gestiona usuarios, roles y permisos"
+5,Auditor,"Revisa el registro de actividad del sistema"
