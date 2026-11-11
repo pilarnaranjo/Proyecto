@@ -156,8 +156,6 @@ CREATE TABLE Rol (
 
 ### 6.2. Inserción de Datos (DML)
 
-| 11 | RegistroActividad | [Ver CSV](./csv/RegistroActividad.csv) |
-
 **Inserción en Usuario**
 
 ```sql
@@ -229,16 +227,16 @@ Los datos utilizados en el proyecto se encuentran organizados en archivos CSV, c
 
 | N.º | Tabla | Archivo CSV |
 |:---:|:---|:---|
-| 1 | Usuario | [Ver CSV](./csv/Usuario.csv) |
-| 2 | Estudiante | [Ver CSV](./csv/Estudiante.csv) |
-| 3 | Docente | [Ver CSV](./csv/Docente.csv) |
-| 4 | Administrativo | [Ver CSV](./csv/Administrativo.csv) |
-| 5 | Rol | [Ver CSV](./csv/Rol.csv) |
-| 6 | Usuario_Rol | [Ver CSV](./csv/Usuario_Rol.csv) |
-| 7 | Permiso | [Ver CSV](./csv/Permiso.csv) |
-| 8 | Rol_Permiso | [Ver CSV](./csv/Rol_Permiso.csv) |
-| 9 | Recurso | [Ver CSV](./csv/Recurso.csv) |
-| 10 | Sesion | [Ver CSV](./csv/Sesion.csv) |
+| 1 | Usuario | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Usuario.csv) |
+| 2 | Estudiante | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Estudiante.csv) |
+| 3 | Docente | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Docente.csv) |
+| 4 | Administrativo | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Administrativo.csv) |
+| 5 | Rol | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Rol.csv) |
+| 6 | Usuario_Rol | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/UsuarioRol.csv) |
+| 7 | Permiso | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Permiso.csv) |
+| 8 | Rol_Permiso | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/RolPermiso.csv) |
+| 9 | Recurso | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Recurso.csv) |
+| 10 | Sesion | [Ver CSV](https://github.com/pilarnaranjo/Proyecto/blob/765ff4a49c545bae39f983d9f0fab8112377f697/csv/Sesion.csv) |
 ---
 
 ## 🔎 7. Consultas de Álgebra Relacional y su Traducción a SQL
