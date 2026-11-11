@@ -156,6 +156,8 @@ CREATE TABLE Rol (
 
 ### 6.2. Inserción de Datos (DML)
 
+| 11 | RegistroActividad | [Ver CSV](./csv/RegistroActividad.csv) |
+
 **Inserción en Usuario**
 
 ```sql
@@ -215,8 +217,28 @@ VALUES
 (3, 'Administrativo', 'Gestiona matrículas y reportes'),
 (4, 'Administrador', 'Gestiona usuarios, roles y permisos'),
 (5, 'Auditor', 'Revisa el registro de actividad del sistema');
-```
 
+```
+| Archivo | Descripción |
+|:---|:---|
+| [📥 Base de datos completa](./sql/Control_Accesos.sql) | Creación de todas las tablas y relaciones mediante DDL. |
+| [📥 Inserción de datos](./sql/Inserciones.sql) | Registros de prueba mediante instrucciones DML. |
+### 5.3. Archivos CSV
+
+Los datos utilizados en el proyecto se encuentran organizados en archivos CSV, correspondientes a las tablas de la base de datos.
+
+| N.º | Tabla | Archivo CSV |
+|:---:|:---|:---|
+| 1 | Usuario | [Ver CSV](./csv/Usuario.csv) |
+| 2 | Estudiante | [Ver CSV](./csv/Estudiante.csv) |
+| 3 | Docente | [Ver CSV](./csv/Docente.csv) |
+| 4 | Administrativo | [Ver CSV](./csv/Administrativo.csv) |
+| 5 | Rol | [Ver CSV](./csv/Rol.csv) |
+| 6 | Usuario_Rol | [Ver CSV](./csv/Usuario_Rol.csv) |
+| 7 | Permiso | [Ver CSV](./csv/Permiso.csv) |
+| 8 | Rol_Permiso | [Ver CSV](./csv/Rol_Permiso.csv) |
+| 9 | Recurso | [Ver CSV](./csv/Recurso.csv) |
+| 10 | Sesion | [Ver CSV](./csv/Sesion.csv) |
 ---
 
 ## 🔎 7. Consultas de Álgebra Relacional y su Traducción a SQL
