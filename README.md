@@ -79,6 +79,7 @@ Diseñar e implementar una base de datos relacional para gestionar usuarios, rol
 <img width="975" height="682" alt="image" src="https://github.com/user-attachments/assets/56f92909-4fe2-4136-9b7d-1d034524678e" />
 
 **Figura 2.** Modelo relacional del sistema de control de accesos y registro de actividad.
+
 [Ver Diagrama Relacional en draw.io](https://drive.google.com/file/d/1NrhM9NKUjxrMsj9KOkywJR4cCTnosN3r/view?usp=sharing)
 
 </div>
