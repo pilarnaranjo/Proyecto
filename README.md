@@ -219,7 +219,7 @@ VALUES
 ```
 | Archivo | Descripción |
 |:---|:---|
-| [📥 Base de datos completa](./sql/Control_Accesos.sql) | Creación de todas las tablas y relaciones mediante DDL. |
+| [📥 Base de datos completa](https://github.com/pilarnaranjo/Proyecto/blob/d3a03cded12b0ddee2ae450c2194f7b6d09155ce/csv/Untitled.sql) | Creación de todas las tablas y relaciones mediante DDL. |
 | [📥 Inserción de datos](./sql/Inserciones.sql) | Registros de prueba mediante instrucciones DML. |
 ### 5.3. Archivos CSV
 
@@ -262,6 +262,8 @@ WHERE d.departamento = 'Computación';
 
 **Resultado esperado:** Una fila por cada docente de Computación, con sus datos de contacto y su especialidad.
 
+<img width="975" height="288" alt="image" src="https://github.com/user-attachments/assets/f27fe6b2-1b37-4c52-95ed-b2407550a2c6" />
+
 ---
 
 ### 7.2. Consulta 2 — Diferencia (−)
@@ -286,6 +288,7 @@ WHERE u.Id_usuario NOT IN (
 ```
 
 **Resultado esperado:** Los usuarios que no aparecen en ninguna sesión, útiles para detectar cuentas sin uso.
+<img width="975" height="234" alt="image" src="https://github.com/user-attachments/assets/2528bb8f-4cac-4b2b-ae25-3f46494eac45" />
 
 ---
 
@@ -318,6 +321,7 @@ WHERE r.Nombre_Rol = 'Auditor';
 ```
 
 **Resultado esperado:** Los usuarios con ambos roles asignados, que son un caso de acumulación.
+<img width="975" height="318" alt="image" src="https://github.com/user-attachments/assets/b12aef71-ffc1-49f7-b088-1c0898e90f9c" />
 
 ---
 
@@ -350,6 +354,7 @@ HAVING COUNT(DISTINCT rp.Id_Permiso) = (
 ```
 
 **Resultado esperado:** Los roles con control total sobre las calificaciones. Si solo el docente puede consultar y modificar, solo ese rol aparece.
+<img width="967" height="275" alt="image" src="https://github.com/user-attachments/assets/9a7284ec-4337-400a-b641-467e6ffba43b" />
 
 ---
 
@@ -378,6 +383,7 @@ ORDER BY ra.fechaHora;
 ```
 
 **Resultado esperado:** Siete filas, una por cada modificación registrada.
+<img width="975" height="337" alt="image" src="https://github.com/user-attachments/assets/68db13b5-e9ec-475c-ab33-8129f72d8e2a" />
 
 ---
 
