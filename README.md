@@ -63,7 +63,7 @@ Diseñar e implementar una base de datos relacional para gestionar usuarios, rol
 
 <div align="center">
 
-<img src="URL_IMAGEN_ER" width="800" alt="Diagrama Entidad-Relación del sistema de control de accesos" />
+<img width="1081" height="405" alt="image" src="https://github.com/user-attachments/assets/1ae5ebba-05d0-42f4-97d8-40055e5f2172" />
 
 **Figura 1.** Diagrama Entidad-Relación del sistema de control de accesos y registro de actividad.
 
@@ -73,7 +73,7 @@ Diseñar e implementar una base de datos relacional para gestionar usuarios, rol
 
 <div align="center">
 
-<img src="URL_IMAGEN_RELACIONAL" width="800" alt="Modelo relacional del sistema de control de accesos" />
+<img width="975" height="682" alt="image" src="https://github.com/user-attachments/assets/56f92909-4fe2-4136-9b7d-1d034524678e" />
 
 **Figura 2.** Modelo relacional del sistema de control de accesos y registro de actividad.
 
