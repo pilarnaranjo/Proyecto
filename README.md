@@ -69,6 +69,8 @@ Diseñar e implementar una base de datos relacional para gestionar usuarios, rol
 
 </div>
 
+[Ver Diagrama Entidad-Relación en draw.io](https://drive.google.com/file/d/1Pl0RMzwvHxqV1Lz3lfV8X2FJ_OePWQRm/view?usp=sharing)
+
 ### 5.2. Modelo Relacional
 
 <div align="center">
@@ -78,6 +80,7 @@ Diseñar e implementar una base de datos relacional para gestionar usuarios, rol
 **Figura 2.** Modelo relacional del sistema de control de accesos y registro de actividad.
 
 </div>
+[Ver Diagrama Relacional en draw.io](https://drive.google.com/file/d/1NrhM9NKUjxrMsj9KOkywJR4cCTnosN3r/view?usp=sharing)
 
 ---
 
@@ -223,7 +226,7 @@ Los siguientes archivos contienen las instrucciones para crear la estructura de 
 | Archivo | Descripción |
 |:---|:---|
 | [📥 Base de datos completa](https://github.com/pilarnaranjo/Proyecto/blob/d3a03cded12b0ddee2ae450c2194f7b6d09155ce/csv/Untitled.sql) | Creación de todas las tablas y relaciones mediante DDL. |
-| [📥 Inserción de datos](./sql/Inserciones.sql) | Registros de prueba mediante instrucciones DML. |
+| [📥 Inserción de datos](https://github.com/pilarnaranjo/Proyecto/blob/eb4a2b27e1625234a8979d7e63e7c2a7b8c1990f/csv/INSERT.sql) | Registros de prueba mediante instrucciones DML. |
 
 ### 6.3. Archivos CSV
 
